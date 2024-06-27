@@ -24,11 +24,11 @@
 1. **Installation**:
    ```bash
    # Clone the repository
-   git clone <repository_url>
-   cd 3d-shirt-generation
+   git clone [repository_url](https://github.com/SULTVNN/3D-Website-NEXTjs.git)
+   cd  3d-shirt-generation
 
    # Install dependencies
    npm install
    # Run Application
    npm run dev
-"# 3D-Website-NEXTjs" 
+
